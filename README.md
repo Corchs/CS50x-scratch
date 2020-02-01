@@ -1,2 +1,2 @@
-# CS50x scratch Problem Set 0
+# CS50x scratch
 Dino's Shopping Game
